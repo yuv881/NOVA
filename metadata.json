@@ -1,0 +1,8 @@
+{
+  "name": "NOVA",
+  "description": "A futuristic voice-controlled AI assistant with real-time natural speech, web search capabilities, and persistent memory, inspired by Iron Man's JARVIS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
